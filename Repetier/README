@@ -1,0 +1,2 @@
+This is Repetier firmware given by MicroMake to use for MicroMake D1 3d printer. I modified this to use Rollie's calculation as described at https://github.com/Bougakov/Micromake-D1-3D-printer
+The firmware of printer should be easily reverted via Cura given by MicroMake also (use install default firmware).
