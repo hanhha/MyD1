@@ -5,3 +5,6 @@ Current changes:
 * Default parameters for:
   * Extruder steps/mm (459.18)
   * Z probe offset (7.73)
+
+## Upload firmware to board
+Using the hex file (without bootloader) in the HEX folder to upload to board.
