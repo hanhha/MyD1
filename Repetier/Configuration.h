@@ -1403,7 +1403,7 @@ to recalibrate z.
 #define Z_PROBE_SWITCHING_DISTANCE 5.0 // Distance to safely switch off probe after it was activated
 #define Z_PROBE_REPETITIONS 1 // Repetitions for probing at one point.
 /** Distance between nozzle and bed when probe triggers. */
-#define Z_PROBE_HEIGHT 7.88 
+#define Z_PROBE_HEIGHT 7.48 
 /** These scripts are run before resp. after the z-probe is done. Add here code to activate/deactivate probe if needed. */
 #define Z_PROBE_START_SCRIPT "G1 X0 Y0 Z20"
 #define Z_PROBE_FINISHED_SCRIPT ""

@@ -6,7 +6,7 @@ Current changes:
 * G29 to strobes at 3 points of a triangles.
 * Default parameters for:
   * Extruder steps/mm (459.18)
-  * Z probe offset (7.88)
+  * Z probe offset (7.48)
 
 Models:
 * Belt tensioner x3 (4mm thick).
